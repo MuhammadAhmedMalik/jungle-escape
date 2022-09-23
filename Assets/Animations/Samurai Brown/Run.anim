@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Run
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.24, y: -0.63, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Enemy_Sprite
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: b8eb62ba149fea640bfa0d8968a35317, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: f66d669d4faeb5f4e8a6176f62558106, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 8cb48b81125c2c040a736b64aebc4b2b, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: 3f36f6c2bc215d248a3cd554b126a235, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: 201afb24e964da043aa78e9fbb90b11c, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: 30bc5ee0b0f157d40a9849ceb16b1c72, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 29c00ee9bbf7a8d4ab5d90a3dc1f34d7, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 2391224a4bfb8954d84fdfde218802e6, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: 7fd0447d3782e824f8c7bc7d77546024, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: a370a72c1a2f5834d8573484ed9354bb, type: 3}
+    attribute: m_Sprite
+    path: Enemy_Sprite
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 2929994392
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2929994392
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: b8eb62ba149fea640bfa0d8968a35317, type: 3}
+    - {fileID: 21300000, guid: f66d669d4faeb5f4e8a6176f62558106, type: 3}
+    - {fileID: 21300000, guid: 8cb48b81125c2c040a736b64aebc4b2b, type: 3}
+    - {fileID: 21300000, guid: 3f36f6c2bc215d248a3cd554b126a235, type: 3}
+    - {fileID: 21300000, guid: 201afb24e964da043aa78e9fbb90b11c, type: 3}
+    - {fileID: 21300000, guid: 30bc5ee0b0f157d40a9849ceb16b1c72, type: 3}
+    - {fileID: 21300000, guid: 29c00ee9bbf7a8d4ab5d90a3dc1f34d7, type: 3}
+    - {fileID: 21300000, guid: 2391224a4bfb8954d84fdfde218802e6, type: 3}
+    - {fileID: 21300000, guid: 7fd0447d3782e824f8c7bc7d77546024, type: 3}
+    - {fileID: 21300000, guid: a370a72c1a2f5834d8573484ed9354bb, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.8333333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.24
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Enemy_Sprite
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.63
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Enemy_Sprite
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Enemy_Sprite
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

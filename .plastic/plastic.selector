@@ -1,0 +1,3 @@
+rep "Project Game@qasimsiddiqui@cloud"
+  path "/"
+    smartbranch "/main"
